@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Anasgomaa0286
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Analytics
+- 📫 How to reach me anasgomaa0286@gmail.com
